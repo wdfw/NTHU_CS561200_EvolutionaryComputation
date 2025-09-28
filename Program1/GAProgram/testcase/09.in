@@ -1,0 +1,13 @@
+-n 10 -r binary -p 200 -u 1 -c 0.8 -m 0.2 -g 1000
+--------------------------------------------
+|Parameter           |Value               |
+--------------------------------------------
+|dimension           |10                  |
+|representation      |binary              |
+|population_size     |200                 |
+|uniform_crossover   |True                |
+|crossover_method    |uniform             |
+|cross_prob          |0.8                 |
+|mut_prob            |0.2                 |
+|num_generations     |1000                |
+--------------------------------------------
