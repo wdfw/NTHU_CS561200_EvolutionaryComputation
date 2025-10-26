@@ -1,0 +1,13 @@
+-n 10 -r real -p 100 -u 0 -c 0.9 -m 0.1 -g 500
+-------------------------------------------
+|Parameter           |Value               |
+-------------------------------------------
+|dimension           |10                  |
+|representation      |real                |
+|population_size     |100                 |
+|uniform_crossover   |false               |
+|crossover_method    |whole arithmetic    |
+|cross_prob          |0.9                 |
+|mut_prob            |0.1                 |
+|num_generations     |500                 |
+-------------------------------------------

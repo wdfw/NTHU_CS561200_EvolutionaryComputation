@@ -4,7 +4,7 @@ import os
 import re
 import platform
 
-test_num = 1 # Number of trials to run and average for each testcases
+test_num = 30 # Number of trials to run and average for each testcases
 
 GREEN = '\033[92m'
 RED = '\033[91m'
